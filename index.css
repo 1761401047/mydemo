@@ -6,3 +6,6 @@ div{
 span{
     text-align: center;
 }
+input{
+    user-select: none;
+}
