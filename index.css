@@ -8,4 +8,5 @@ span{
 }
 input{
     user-select: none;
+    width: 100px;
 }
